@@ -1,0 +1,10 @@
+C:\Users\miche\projetos\asp_net_core\crud\bin\Debug\netcoreapp2.0\Crud.deps.json
+C:\Users\miche\projetos\asp_net_core\crud\bin\Debug\netcoreapp2.0\Crud.runtimeconfig.json
+C:\Users\miche\projetos\asp_net_core\crud\bin\Debug\netcoreapp2.0\Crud.runtimeconfig.dev.json
+C:\Users\miche\projetos\asp_net_core\crud\bin\Debug\netcoreapp2.0\Crud.dll
+C:\Users\miche\projetos\asp_net_core\crud\bin\Debug\netcoreapp2.0\Crud.pdb
+C:\Users\miche\projetos\asp_net_core\crud\obj\Debug\netcoreapp2.0\Crud.csproj.CoreCompileInputs.cache
+C:\Users\miche\projetos\asp_net_core\crud\obj\Debug\netcoreapp2.0\Crud.AssemblyInfoInputs.cache
+C:\Users\miche\projetos\asp_net_core\crud\obj\Debug\netcoreapp2.0\Crud.AssemblyInfo.cs
+C:\Users\miche\projetos\asp_net_core\crud\obj\Debug\netcoreapp2.0\Crud.dll
+C:\Users\miche\projetos\asp_net_core\crud\obj\Debug\netcoreapp2.0\Crud.pdb
